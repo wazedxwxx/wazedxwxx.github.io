@@ -1,3 +1,3 @@
 # wazedxwxx.github.io
-Wangxinxin Page
-aaa
+
+wazedxwxx.github.io
