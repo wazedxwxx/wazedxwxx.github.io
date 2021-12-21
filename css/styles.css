@@ -11407,6 +11407,13 @@ p.lead {
   font-size: 3rem;
 }
 
+.weixin{ display:block;text-align:center; position:relative;margin-top:20%;}
+.weixin img{ display:none;}
+.weixin:hover img{position:relative;   top: -100px;left: 600px; width: 400px; height: 400px ;margin-left:-35px; padding-top:30px; display:block;}
+
+
+
+
 section.resume-section {
   display: flex;
   align-items: center;
